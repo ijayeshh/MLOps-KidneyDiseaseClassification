@@ -1,0 +1,1 @@
+Basic MLOPs pipeline for Computer Vision
