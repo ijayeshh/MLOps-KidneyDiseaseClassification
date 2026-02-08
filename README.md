@@ -1,1 +1,11 @@
 Basic MLOPs pipeline for Computer Vision
+- add requirements.txt
+- add setup.py and template.py
+- install all requirements
+- added params.yaml for model training related parameters
+- added config/config.yaml for pipeline configuration
+- added config_entity.py for configuration data classes
+- added constants/__init__.py with shared config and params file paths
+- added configuration.py to load YAML config/params and create artifact directories
+- added configuration.py helpers to build data ingestion, base model, training, and evaluation configs
+- 
