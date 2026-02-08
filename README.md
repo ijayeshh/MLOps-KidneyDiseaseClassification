@@ -13,4 +13,13 @@ Basic MLOPs pipeline for Computer Vision
 - added prepare_base_model.py
 - added model_training.py
 - added model evaluation component, along with MLFlow tracking.
-- 
+- added four stages of pipeline.
+- updated main.py
+- define dvc.yaml
+- add app.py
+- create secrets.yaml for MLFlow
+- create Dockerfile
+- create github actions workflow
+- update Secrets of your repository with AWS credentials
+ 
+
