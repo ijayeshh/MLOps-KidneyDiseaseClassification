@@ -8,4 +8,9 @@ Basic MLOPs pipeline for Computer Vision
 - added constants/__init__.py with shared config and params file paths
 - added configuration.py to load YAML config/params and create artifact directories
 - added configuration.py helpers to build data ingestion, base model, training, and evaluation configs
+- start adding components. There are four components
+- added data_ingestion.py with download file and extract file
+- added prepare_base_model.py
+- added model_training.py
+- added model evaluation component, along with MLFlow tracking.
 - 
